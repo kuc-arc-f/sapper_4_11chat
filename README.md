@@ -73,7 +73,10 @@ Data (API comluns) , users, chats , chat_posts
 * title : text
 * body : text
 ***
-### Related:
+### Blog:
+
+* sapper + svelte で、チャットを作る
+https://zenn.dev/knaka0209/articles/bd3a6b68a967ae
 
 ***
 
